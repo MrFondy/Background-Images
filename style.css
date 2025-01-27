@@ -1,0 +1,8 @@
+background{
+    background-image: url(star.gif);
+}
+#background{
+    background-image: url(star.gif);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
